@@ -56139,7 +56139,7 @@ MonoBehaviour:
   moveSpeed: 9
   climbSpeed: 6.5
   jumpForce: 12.5
-  ifAttack: 0
+  ifAttack: 1
   cd: 0.45
   speedTime: 2
   jumpForceTime: 1.25
