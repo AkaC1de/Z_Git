@@ -1,0 +1,383 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7797d5fb96af3e4e9702c34bed60e33, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Virtual Acoustics
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: dda3a63ec675ac4c98ec3aac135de703
+    ParentPath: Virtual Acoustics\Default Work Unit
+    guid: dda3a63ec675ac4c98ec3aac135de703
+    GuidInternal: 
+    m_lastTime: -8585288762915340907
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Master-Mixer Hierarchy
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: cd9f923fee63344f83a2c950d8ae3c04
+    ParentPath: Master-Mixer Hierarchy\Default Work Unit
+    guid: cd9f923fee63344f83a2c950d8ae3c04
+    GuidInternal: 
+    m_lastTime: -8585288762915680982
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Master-Mixer Hierarchy
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: cd9f923fee63344f83a2c950d8ae3c04
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+        guid: d8a41415a61d2a41a17e75ca0c2149f3
+      Path: Master-Mixer Hierarchy\Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 082eab34a62d6644af8ef7b504413650
+    ParentPath: SoundBanks\Default Work Unit
+    guid: 082eab34a62d6644af8ef7b504413650
+    GuidInternal: 
+    m_lastTime: -8585288762915520943
+    List: []
+  - PhysicalPath: SoundBanks\Z.wwu
+    PathAndIcons:
+    - ElementName: SoundBanks
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Z
+      ObjectType: 12
+      guid: 4750fa927359c341a3e45172cf43f60b
+    ParentPath: SoundBanks\Z
+    guid: 4750fa927359c341a3e45172cf43f60b
+    GuidInternal: 
+    m_lastTime: -8585286098673816229
+    List:
+    - name: Level1
+      guid: da524765cd3501409a38841d34ee84c4
+      id: 2678230382
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 4750fa927359c341a3e45172cf43f60b
+      - ElementName: Level1
+        ObjectType: 7
+        guid: da524765cd3501409a38841d34ee84c4
+      Path: SoundBanks\Z\Level1
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: d45c40c7d3d7124bb8508732e8edc1a4
+    ParentPath: Events\Default Work Unit
+    guid: d45c40c7d3d7124bb8508732e8edc1a4
+    GuidInternal: 
+    m_lastTime: -8585288762915600966
+    List: []
+  - PhysicalPath: Events\Z.wwu
+    PathAndIcons:
+    - ElementName: Events
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Z
+      ObjectType: 12
+      guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+    ParentPath: Events\Z
+    guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+    GuidInternal: 
+    m_lastTime: -8585268911680765774
+    List:
+    - name: Coin
+      guid: 0c857b6ea152754b8b714528b24bfff8
+      id: 3603273110
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Coin
+        ObjectType: 3
+        guid: 0c857b6ea152754b8b714528b24bfff8
+      Path: Events\Z\Foley\Coin
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Explosion
+      guid: 1be8e0011135fd42a14f935cc1f577a3
+      id: 13776098
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Explosion
+        ObjectType: 3
+        guid: 1be8e0011135fd42a14f935cc1f577a3
+      Path: Events\Z\Foley\Explosion
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Fire
+      guid: 85f525cee946ca4c917ec595f7b2e1fa
+      id: 2678880713
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Fire
+        ObjectType: 3
+        guid: 85f525cee946ca4c917ec595f7b2e1fa
+      Path: Events\Z\Foley\Fire
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Foley
+      guid: 2823f10511ba5f42956e200f254467ee
+      id: 247557814
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      Path: Events\Z\Foley
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: FootSteps
+      guid: 16e06ae972fabc42b25997cb37f9d604
+      id: 2385628198
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: FootSteps
+        ObjectType: 3
+        guid: 16e06ae972fabc42b25997cb37f9d604
+      Path: Events\Z\Foley\FootSteps
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: isClimbing
+      guid: f6159631c03f5c47b0e553e266130711
+      id: 1117419740
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: isClimbing
+        ObjectType: 3
+        guid: f6159631c03f5c47b0e553e266130711
+      Path: Events\Z\Foley\isClimbing
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Laser
+      guid: 21436b2f20dc00489bedb23fb61fe5d9
+      id: 3982605422
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Laser
+        ObjectType: 3
+        guid: 21436b2f20dc00489bedb23fb61fe5d9
+      Path: Events\Z\Foley\Laser
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: PlayerHurt
+      guid: 9092c8166a549a468210e3010f29afa5
+      id: 3537581393
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: PlayerHurt
+        ObjectType: 3
+        guid: 9092c8166a549a468210e3010f29afa5
+      Path: Events\Z\Foley\PlayerHurt
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Sword
+      guid: ddccd54afa6f18449b3fea9e1accf548
+      id: 2454616260
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Sword
+        ObjectType: 3
+        guid: ddccd54afa6f18449b3fea9e1accf548
+      Path: Events\Z\Foley\Sword
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+    - name: Warning
+      guid: 2be8b48c54e6dd44b4e000e42c4a359e
+      id: 2176025603
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Z
+        ObjectType: 12
+        guid: 7e0ffe6fff3bd34eb203fe6aa743f24e
+      - ElementName: Foley
+        ObjectType: 4
+        guid: 2823f10511ba5f42956e200f254467ee
+      - ElementName: Warning
+        ObjectType: 3
+        guid: 2be8b48c54e6dd44b4e000e42c4a359e
+      Path: Events\Z\Foley\Warning
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Game Parameters
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: d43e6cbc98c11c48a535b1cce6333578
+    ParentPath: Game Parameters\Default Work Unit
+    guid: d43e6cbc98c11c48a535b1cce6333578
+    GuidInternal: 
+    m_lastTime: -8585288762915470935
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: States
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 15930cdc64237c49830d51a4eeeb7113
+    ParentPath: States\Default Work Unit
+    guid: 15930cdc64237c49830d51a4eeeb7113
+    GuidInternal: 
+    m_lastTime: -8585288762915490941
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Switches
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 2eb7f909205bf04798205b8936a133ee
+    ParentPath: Switches\Default Work Unit
+    guid: 2eb7f909205bf04798205b8936a133ee
+    GuidInternal: 
+    m_lastTime: -8585288762915710982
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    PathAndIcons:
+    - ElementName: Triggers
+      ObjectType: 5
+      guid: 00000000000000000000000000000000
+    - ElementName: Default Work Unit
+      ObjectType: 12
+      guid: 7caed78f084e4a4b8f8243726ac971c5
+    ParentPath: Triggers\Default Work Unit
+    guid: 7caed78f084e4a4b8f8243726ac971c5
+    GuidInternal: 
+    m_lastTime: -8585288762915260888
+    List: []
+  ExpandedFileSystemItemIds: 
+  ExpandedWaapiItemIds: 0100000005000000060000000700000008000000090000000a00000017000000c2000000c4000000c5000000e4000000e6000000e700000052010000540100008d0100008f01000090010000
+  AutoSyncSelection: 0
+  autoPopulateEnabled: 1
+  currentDataSource: 0
+  CurrentPluginConfig: 

@@ -1,0 +1,4 @@
+repository "Z@akac1de@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
