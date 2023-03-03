@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="16" SoundBankVersion="145">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Mac</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{F56A610C-C7C4-F874-B68B-7ADDF94EBB7A}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="2678230382" Type="User" Language="SFX" Hash="{9F7F6023-E6CB-FFC2-C7E2-030EA8AB0FA7}">
+			<ShortName>Level1</ShortName>
+			<Path>Level1.bnk</Path>
+			<Media>
+				<File Id="9137041" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Sword\sword2.wav</ShortName>
+					<CachePath>SFX/Sword/sword2_763D7389.wem</CachePath>
+				</File>
+				<File Id="60213787" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley\Fire\Laser_Shoot.wav</ShortName>
+					<CachePath>SFX/Foley/Fire/Laser_Shoot_10C4C929.wem</CachePath>
+				</File>
+				<File Id="192533301" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>isLadder\isLadder4.wav</ShortName>
+					<CachePath>SFX/isLadder/isLadder4_10C4C929.wem</CachePath>
+				</File>
+				<File Id="211072468" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley\Coin\Pickup_Coin.wav</ShortName>
+					<CachePath>SFX/Foley/Coin/Pickup_Coin_10C4C929.wem</CachePath>
+				</File>
+				<File Id="212296093" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>laser.wav</ShortName>
+					<CachePath>SFX/laser_86D52806.wem</CachePath>
+				</File>
+				<File Id="291427104" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>isLadder\isLadder.wav</ShortName>
+					<CachePath>SFX/isLadder/isLadder_10C4C929.wem</CachePath>
+				</File>
+				<File Id="327500353" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>isLadder\isLadder5.wav</ShortName>
+					<CachePath>SFX/isLadder/isLadder5_10C4C929.wem</CachePath>
+				</File>
+				<File Id="367248722" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\2.wav</ShortName>
+					<CachePath>SFX/FootSteps/2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="434652462" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\4.wav</ShortName>
+					<CachePath>SFX/FootSteps/4_10C4C929.wem</CachePath>
+				</File>
+				<File Id="453167118" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>warning.wav</ShortName>
+					<CachePath>SFX/warning_80DCCDE1.wem</CachePath>
+				</File>
+				<File Id="615078388" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Sword\sword3.wav</ShortName>
+					<CachePath>SFX/Sword/sword3_F0C5DAE3.wem</CachePath>
+				</File>
+				<File Id="624365745" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sword4.wav</ShortName>
+					<CachePath>SFX/sword4_B43E11B6.wem</CachePath>
+				</File>
+				<File Id="651829805" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>isLadder\isLadder3.wav</ShortName>
+					<CachePath>SFX/isLadder/isLadder3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="653564711" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Foley\Expolsion\Explosion.wav</ShortName>
+					<CachePath>SFX/Foley/Expolsion/Explosion_10C4C929.wem</CachePath>
+				</File>
+				<File Id="656708764" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Sword\sword1.wav</ShortName>
+					<CachePath>SFX/Sword/sword1_D628BA39.wem</CachePath>
+				</File>
+				<File Id="661251511" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\1.wav</ShortName>
+					<CachePath>SFX/FootSteps/1_10C4C929.wem</CachePath>
+				</File>
+				<File Id="721229601" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>isLadder\isLadder2.wav</ShortName>
+					<CachePath>SFX/isLadder/isLadder2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="734493012" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\Move3.wav</ShortName>
+					<CachePath>SFX/FootSteps/Move3_9C3BEC23.wem</CachePath>
+				</File>
+				<File Id="755741106" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\Move4.wav</ShortName>
+					<CachePath>SFX/FootSteps/Move4_04132C91.wem</CachePath>
+				</File>
+				<File Id="785686545" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ladder\Ladder3.wav</ShortName>
+					<CachePath>SFX/Ladder/Ladder3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="788148756" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\3.wav</ShortName>
+					<CachePath>SFX/FootSteps/3_10C4C929.wem</CachePath>
+				</File>
+				<File Id="841679291" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sword6.wav</ShortName>
+					<CachePath>SFX/sword6_F6C7BC3E.wem</CachePath>
+				</File>
+				<File Id="844568905" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ladder\Ladder2.wav</ShortName>
+					<CachePath>SFX/Ladder/Ladder2_10C4C929.wem</CachePath>
+				</File>
+				<File Id="906123282" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>hurt.wav</ShortName>
+					<CachePath>SFX/hurt_10C4C929.wem</CachePath>
+				</File>
+				<File Id="935085431" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>sword5.wav</ShortName>
+					<CachePath>SFX/sword5_44AC9CF8.wem</CachePath>
+				</File>
+				<File Id="989509451" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\Move1.wav</ShortName>
+					<CachePath>SFX/FootSteps/Move1_01DFE0A8.wem</CachePath>
+				</File>
+				<File Id="1006255118" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>FootSteps\Move2.wav</ShortName>
+					<CachePath>SFX/FootSteps/Move2_F713A660.wem</CachePath>
+				</File>
+				<File Id="1041873832" Language="SFX" Streaming="false" Location="Memory">
+					<ShortName>Ladder\Ladder1.wav</ShortName>
+					<CachePath>SFX/Ladder/Ladder1_10C4C929.wem</CachePath>
+				</File>
+			</Media>
+			<Events>
+				<Event Id="3603273110" Name="Coin" DurationType="OneShot" DurationMin="0.21900226" DurationMax="0.21900226">
+					<MediaRefs>
+						<MediaRef Id="211072468"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="13776098" Name="Explosion" DurationType="OneShot" DurationMin="0.23936509" DurationMax="0.23936509">
+					<MediaRefs>
+						<MediaRef Id="653564711"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2678880713" Name="Fire" DurationType="OneShot" DurationMin="0.19004536" DurationMax="0.19004536">
+					<MediaRefs>
+						<MediaRef Id="60213787"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2385628198" Name="FootSteps" DurationType="OneShot" DurationMin="0.1394375" DurationMax="0.2765625">
+					<MediaRefs>
+						<MediaRef Id="367248722"/>
+						<MediaRef Id="434652462"/>
+						<MediaRef Id="661251511"/>
+						<MediaRef Id="734493012"/>
+						<MediaRef Id="755741106"/>
+						<MediaRef Id="788148756"/>
+						<MediaRef Id="989509451"/>
+						<MediaRef Id="1006255118"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="1117419740" Name="isClimbing" DurationType="OneShot" DurationMin="0.2570975" DurationMax="0.4457143">
+					<MediaRefs>
+						<MediaRef Id="192533301"/>
+						<MediaRef Id="291427104"/>
+						<MediaRef Id="327500353"/>
+						<MediaRef Id="651829805"/>
+						<MediaRef Id="721229601"/>
+						<MediaRef Id="785686545"/>
+						<MediaRef Id="844568905"/>
+						<MediaRef Id="1041873832"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3982605422" Name="Laser" MaxAttenuation="50" DurationType="OneShot" DurationMin="1.9875163" DurationMax="1.9875163">
+					<MediaRefs>
+						<MediaRef Id="212296093"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="3537581393" Name="PlayerHurt" DurationType="OneShot" DurationMin="0.5200833" DurationMax="0.5200833">
+					<MediaRefs>
+						<MediaRef Id="906123282"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2454616260" Name="Sword" DurationType="OneShot" DurationMin="0.20198101" DurationMax="0.2234125">
+					<MediaRefs>
+						<MediaRef Id="9137041"/>
+						<MediaRef Id="615078388"/>
+						<MediaRef Id="624365745"/>
+						<MediaRef Id="656708764"/>
+						<MediaRef Id="841679291"/>
+						<MediaRef Id="935085431"/>
+					</MediaRefs>
+				</Event>
+				<Event Id="2176025603" Name="Warning" DurationType="OneShot" DurationMin="0.17839418" DurationMax="0.17839418">
+					<MediaRefs>
+						<MediaRef Id="453167118"/>
+					</MediaRefs>
+				</Event>
+			</Events>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{74EF56D3-8075-75F5-DAB8-4A44FA399DA3}</FileHash>
+</SoundBanksInfo>

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{6FFE0F7E-3BFF-4ED3-B203-FE6AA743F24E}" SchemaVersion="110">
+	<Events>
+		<WorkUnit Name="Z" ID="{6FFE0F7E-3BFF-4ED3-B203-FE6AA743F24E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="Foley" ID="{05F12328-BA11-425F-956E-200F254467EE}" ShortID="317284159">
+					<ChildrenList>
+						<Event Name="FootSteps" ID="{E96AE016-FA72-42BC-B259-97CB37F9D604}">
+							<ChildrenList>
+								<Action Name="" ID="{6114FAB5-4A87-49AE-BE38-7A73783B13C2}" ShortID="295445154">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="FootSteps" ID="{975CB12E-7B22-47AF-BA36-5EED61355052}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Fire" ID="{CE25F585-46E9-4CCA-917E-C595F7B2E1FA}">
+							<ChildrenList>
+								<Action Name="" ID="{88344BDE-3061-46B6-86EE-30E07286EA0A}" ShortID="1021348458">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Fire" ID="{8A47FC9B-31E7-490F-85C4-4EE9B8F6B61F}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Explosion" ID="{01E0E81B-3511-42FD-A14F-935CC1F577A3}">
+							<ChildrenList>
+								<Action Name="" ID="{0BA38711-CC53-46C8-8E6D-723FB52DAF6A}" ShortID="782404249">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Expolsion" ID="{B4CDCA98-D620-40D7-B795-7FCB42B4CBB8}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Coin" ID="{6E7B850C-52A1-4B75-8B71-4528B24BFFF8}">
+							<ChildrenList>
+								<Action Name="" ID="{D080CBEF-988F-4985-B532-A90DD23228AF}" ShortID="622057394">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Coin" ID="{6CF47EEA-674A-40C8-AB32-FBA8D89EA861}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Laser" ID="{2F6B4321-DC20-4800-9BED-B23FB61FE5D9}">
+							<ChildrenList>
+								<Action Name="" ID="{10E84F2C-1FF8-4328-A987-6550AD46BAF3}" ShortID="477882000">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Laser" ID="{87691FD0-CACC-4356-A30D-BD6A5BCFD202}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="isClimbing" ID="{319615F6-3FC0-475C-B0E5-53E266130711}">
+							<ChildrenList>
+								<Action Name="" ID="{91D966C0-347B-49DB-8A74-954A35A6F67A}" ShortID="322697637">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="isLadder" ID="{DFCAF52E-2D9E-464D-89B3-1309FD6F14E1}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Sword" ID="{4AD5CCDD-6FFA-4418-9B3F-EA9E1ACCF548}">
+							<ChildrenList>
+								<Action Name="" ID="{AC57A7DA-1C9B-4984-9F57-3D4D33A5F096}" ShortID="238873833">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Sword" ID="{6CF7499C-2446-4FA7-9783-E193FD2E9892}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="Warning" ID="{8CB4E82B-E654-44DD-B4E0-00E42C4A359E}">
+							<ChildrenList>
+								<Action Name="" ID="{DD693CB6-4357-4375-87E5-0D2DC58515F8}" ShortID="361051756">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Warning" ID="{997096ED-745E-44EF-AD20-FB9351725C72}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+						<Event Name="PlayerHurt" ID="{16C89290-546A-469A-8210-E3010F29AFA5}">
+							<ChildrenList>
+								<Action Name="" ID="{7D77C1E8-EB56-4588-952D-BE9E26264292}" ShortID="626921742">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="PlayerHurt" ID="{9C7D4E5F-7908-4494-87C8-ECBFAEEDB4EF}" WorkUnitID="{42272F2D-CDB3-4E0D-B6DA-30501BD8E5C1}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

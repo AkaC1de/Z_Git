@@ -1,0 +1,41 @@
+Event	ID	Name			Wwise Object Path	Notes
+	13776098	Explosion			\Z\Foley\Explosion	
+	1117419740	isClimbing			\Z\Foley\isClimbing	
+	2176025603	Warning			\Z\Foley\Warning	
+	2385628198	FootSteps			\Z\Foley\FootSteps	
+	2454616260	Sword			\Z\Foley\Sword	
+	2678880713	Fire			\Z\Foley\Fire	
+	3537581393	PlayerHurt			\Z\Foley\PlayerHurt	
+	3603273110	Coin			\Z\Foley\Coin	
+	3982605422	Laser			\Z\Foley\Laser	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	9137041	sword2	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Sword\sword2_763D7389.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword1\sword2		23036
+	60213787	Laser_Shoot	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Foley\Fire\Laser_Shoot_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\Fire\Laser_Shoot		16858
+	192533301	isLadder4	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\isLadder\isLadder4_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\isLadder\isLadder4		15736
+	211072468	Pickup_Coin	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Foley\Coin\Pickup_Coin_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\Coin\Pickup_Coin		19412
+	212296093	laser	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\laser_86D52806.wem		\Actor-Mixer Hierarchy\Z\Foley\Laser\laser		350692
+	291427104	isLadder	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\isLadder\isLadder_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\isLadder\isLadder		12236
+	327500353	isLadder5	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\isLadder\isLadder5_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\isLadder\isLadder5		12432
+	367248722	2	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\2_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Step\2		13482
+	434652462	4	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\4_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Step\4		26646
+	453167118	warning	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\warning_80DCCDE1.wem		\Actor-Mixer Hierarchy\Z\Foley\Warning\warning		17222
+	615078388	sword3	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Sword\sword3_F0C5DAE3.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword1\sword3		19684
+	624365745	sword4	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\sword4_B43E11B6.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword2\sword4		38876
+	651829805	isLadder3	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\isLadder\isLadder3_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\isLadder\isLadder3		13516
+	653564711	Explosion	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Foley\Expolsion\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\Expolsion\Explosion		21208
+	656708764	sword1	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Sword\sword1_D628BA39.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword1\sword1		25120
+	661251511	1	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\1_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Step\1		13482
+	721229601	isLadder2	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\isLadder\isLadder2_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\isLadder\isLadder2		10904
+	734493012	Move3	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\Move3_9C3BEC23.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Effect\Move3		43600
+	755741106	Move4	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\Move4_04132C91.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Effect\Move4		32068
+	785686545	Ladder3	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Ladder\Ladder3_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\Ladder\Ladder3		60928
+	788148756	3	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\3_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Step\3		15228
+	841679291	sword6	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\sword6_F6C7BC3E.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword2\sword6		39324
+	844568905	Ladder2	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Ladder\Ladder2_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\Ladder\Ladder2		78720
+	906123282	hurt	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\hurt_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\PlayerHurt\hurt		50024
+	935085431	sword5	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\sword5_44AC9CF8.wem		\Actor-Mixer Hierarchy\Z\Foley\Sword\Sword\Sword2\sword5		42992
+	989509451	Move1	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\Move1_01DFE0A8.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Effect\Move1		24080
+	1006255118	Move2	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\FootSteps\Move2_F713A660.wem		\Actor-Mixer Hierarchy\Z\Foley\FootSteps\Footsteps\Effect\Move2		27264
+	1041873832	Ladder1	E:\AkaC1de_Projects\Projects_Series\Unity_Projects\Z\Z_WwiseProject\.cache\Windows\SFX\Ladder\Ladder1_10C4C929.wem		\Actor-Mixer Hierarchy\Z\Foley\isLadder\Ladders\Ladder\Ladder1		45448
+
