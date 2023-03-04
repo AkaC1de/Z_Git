@@ -12,21 +12,23 @@ public class EnemyLife : LifeSystem
     protected override void Update()
     {
         base.Update();
-        BT_Hurt();
     }
 
 
-    protected void BT_Hurt()
+    protected override void BeatBack()
     {
         if (isHurting == true)
         {
             //将受伤状态传递给行为树
             enemyTree.SetVariableValue("isHurting", true);
+            //击退
+            rb.AddForce(backSpeed * backDirection, ForceMode2D.Impulse);
+            if (info.normalizedTime >= 0.6f)
+            {
+                isHurting = false;
+            }
         }
-        if (info.normalizedTime >= 0.6f)
-        {
-            isHurting = false;
-        }
+       
     }
 
     public override void isDeath()

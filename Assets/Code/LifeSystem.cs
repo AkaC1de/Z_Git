@@ -13,10 +13,9 @@ public class LifeSystem : MonoBehaviour
     protected AnimatorStateInfo info;
     protected Rigidbody2D rb;
     protected Vector2 backDirection;
-    [Header("攻击受到的伤害")]
-    private float attackDamage;
-    [Header("被击退的距离(速度)")]
-    private float backSpeed;
+
+    protected float attackDamage;
+    protected float backSpeed;
 
     #endregion
 
